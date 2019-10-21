@@ -62,7 +62,7 @@ descartes==1.1.0
 distlib==0.2.0
 docutils==0.14
 docutils-aafigure==0.3
-ecdsa==0.13.1.dev0
+ecdsa==0.13.3
 ecos==1.1.1
 ed25519ll==0.6
 egenix-mx-base==3.2.8

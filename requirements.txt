@@ -196,7 +196,7 @@ pbs==0.110
 pdfrw==0.2
 pep8==1.7.0
 pickleshare==0.7.4
-Pillow==2.8.2
+Pillow==6.2.0
 ply==3.6
 pods==0.0.2a0
 Polygon==2.0.5

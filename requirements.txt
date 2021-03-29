@@ -220,7 +220,7 @@ pyemf==2.0.0
 pyface==4.6.0.dev13
 pyflakes==2.0.0
 pygeocoder==1.2.5
-Pygments==2.2.0
+Pygments==2.7.4
 pygraphviz==1.3.dev0
 pyhdf==0.8.3
 PyHyphen==2.0.5

@@ -204,7 +204,7 @@ pp==1.6.4
 prometheus-client==0.3.1
 prompt-toolkit==1.0.15
 psutil==5.3.1
-py==1.4.30
+py==1.10.0
 py2exe==0.6.9
 pyamg==2.2.1
 pyasn1==0.1.8

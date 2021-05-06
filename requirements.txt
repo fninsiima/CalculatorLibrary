@@ -304,7 +304,7 @@ spyder-kernels==0.2.4
 SQLAlchemy==1.0.6
 statsmodels==0.6.1
 svg2rlg==0.3
-svglib==0.6.3
+svglib==0.9.4
 sympy==0.7.6
 tables==3.2.0
 Tempita==0.5.2

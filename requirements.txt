@@ -323,7 +323,7 @@ ujson==1.33
 uncertainties==2.4.6.1
 unittest2==1.0.1
 update==0.4.4
-urllib3==1.22
+urllib3==1.26.5
 utils==0.8.0
 veusz==1.23.1
 virtualenv==13.0.3

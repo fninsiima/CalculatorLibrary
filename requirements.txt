@@ -259,7 +259,7 @@ PyVISA==1.7
 PyWavelets==0.2.2
 pyweatherbit==2.0.0
 pywin==0.3.1
-pywin32==219
+pywin32==301
 pywinauto==0.4.2
 pywinpty==0.5.4
 PyYAML==3.11

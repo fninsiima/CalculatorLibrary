@@ -49,7 +49,7 @@ cov-core==1.15.0
 coverage==3.7.1
 cryptography==2.0
 cssselect==0.9.1
-cvxopt==1.1.7
+cvxopt==1.2.7
 cvxpy==0.2.24
 cx-Freeze==4.3.4
 cycler==0.10.0

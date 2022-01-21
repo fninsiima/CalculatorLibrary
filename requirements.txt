@@ -113,7 +113,7 @@ ipaddress==1.0.18
 ipdb==0.8.1
 ipdbplugin==1.4.2
 ipykernel==4.9.0
-ipython==5.4.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.4.1
 isort==4.2.15

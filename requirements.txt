@@ -237,7 +237,7 @@ pyOpenSSL==17.1.0
 pyparallel==0.2
 pyparsing==2.2.0
 pyPdf==1.13
-PyPDF2==1.24
+PyPDF2==1.27.5
 pypiwin32==219
 pyproj==1.9.5.1
 PyQt4==4.11.3

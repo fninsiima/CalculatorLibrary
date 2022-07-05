@@ -210,7 +210,7 @@ pyamg==2.2.1
 pyasn1==0.1.8
 pyasn1-modules==0.0.6
 PyAudio==0.2.8
-pycares==0.7.0
+pycares==4.2.0
 pycodestyle==2.4.0
 pycparser==2.18
 pycrypto==2.6.1

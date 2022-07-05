@@ -319,7 +319,7 @@ traits==4.5.0
 traitsui==4.5.1
 TTFQuery==1.0.5
 typing==3.6.2
-ujson==1.33
+ujson==5.4.0
 uncertainties==2.4.6.1
 unittest2==1.0.1
 update==0.4.4

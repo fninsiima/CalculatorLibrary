@@ -166,7 +166,7 @@ mock==1.0.1
 modernize==0.4
 more-itertools==2.3.dev0
 munch==2.3.2
-nbconvert==5.3.1
+nbconvert==6.5.1
 nbformat==4.4.0
 ndg-httpsclient==0.4.0
 netCDF4==1.1.8

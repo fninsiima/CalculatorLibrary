@@ -31,7 +31,7 @@ bs4==0.0.1
 CacheControl==0.11.5
 cchardet==0.3.5
 cdecimal==2.3
-certifi==2017.7.27.1
+certifi==2022.12.7
 cffi==1.10.0
 chaco==4.5.0
 chardet==3.0.4
